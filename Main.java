@@ -18,7 +18,7 @@ class Student {
     }
 }
 
-public class Main {
+public class Main{
     public static void main(String[] args) {
         Student s = new Student("Misbha", "2005-08-26");
         s.display();
